@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PingWatch</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 12 Nov 2026 18:13:21 -0300</pubDate>
+            <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
+            <sparkle:version>202611122111</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[First public release.
+
+- Pings your router, 1.1.1.1 and 8.8.8.8 (or any hosts you add) every second over ICMP and keeps every result.
+- The menu bar shows a health dot and the first host's latency; the menu shows latency, jitter and loss per host.
+- History window with charts and statistics from the last hour to a year, for one host or all of them.
+- Speed tests against Cloudflare, with the data each test uses.
+- Updates itself: PingWatch checks once a day and shows "Update available" in its menu.
+]]></description>
+            <enclosure url="https://github.com/mathiasgrimm/pingwatch-releases/releases/download/v0.1.0/PingWatch-0.1.0.zip" length="4102924" type="application/octet-stream" sparkle:edSignature="ALqkOBC0MBPUOZZ23abBT9ojJ95TwubuQi99qcC6VwIzHbLtG0cpkpXC9TpBTi7eHJ8/AK4eEKGlMufo1SGbDg=="/>
+        </item>
+    </channel>
+</rss>
