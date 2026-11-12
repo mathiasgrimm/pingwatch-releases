@@ -3,6 +3,17 @@
     <channel>
         <title>PingWatch</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Thu, 12 Nov 2026 20:35:48 -0300</pubDate>
+            <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
+            <sparkle:version>202611122333</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- PingWatch has an app icon: the green health dot from the menu bar.
+]]></description>
+            <enclosure url="https://github.com/mathiasgrimm/pingwatch-releases/releases/download/v0.1.2/PingWatch-0.1.2.zip" length="4514315" type="application/octet-stream" sparkle:edSignature="tdx4LWEiMdx8U+kpoXopkta6WVgcWaBRk6nR/uAdoHsPSPhshAfbAg7CXCUe23hWIvnutrNM2Y0tvS9KQ1meDQ=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Thu, 12 Nov 2026 20:23:46 -0300</pubDate>
             <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
