@@ -3,6 +3,18 @@
     <channel>
         <title>PingWatch</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Thu, 12 Nov 2026 20:23:46 -0300</pubDate>
+            <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
+            <sparkle:version>202611122321</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- On first launch, PingWatch now finds your router from your Mac's network instead of assuming 10.0.0.1.
+- Scheduled speed tests are off for new installs (each test uses about 125 MB). Turn them on in Settings > Speed Test. Existing installs keep their schedule.
+]]></description>
+            <enclosure url="https://github.com/mathiasgrimm/pingwatch-releases/releases/download/v0.1.1/PingWatch-0.1.1.zip" length="4105128" type="application/octet-stream" sparkle:edSignature="Zad45IhzxgOU8cjiofQOHA4NvRu9BZeUzAxTLP8Ox7OVMfhT/DmbfAIZ9FkwYvlbUbWXsdAttsxTVZekJu/vDQ=="/>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Thu, 12 Nov 2026 18:13:21 -0300</pubDate>
             <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
