@@ -3,6 +3,17 @@
     <channel>
         <title>PingWatch</title>
         <item>
+            <title>0.1.5</title>
+            <pubDate>Fri, 13 Nov 2026 16:13:52 -0300</pubDate>
+            <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
+            <sparkle:version>202611131911</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- New installs also watch the DNS server your Mac uses, next to your router, 1.1.1.1 and 8.8.8.8, when it is not one of those. Existing host lists are not changed; you can add it yourself in Settings > Hosts.
+]]></description>
+            <enclosure url="https://github.com/mathiasgrimm/pingwatch-releases/releases/download/v0.1.5/PingWatch-0.1.5.zip" length="4484342" type="application/octet-stream" sparkle:edSignature="SAUUUew5jHQCcOjTazYwKLx8IW2h91fpHuEw6d5/tc4BJh9vaOsM2glolS0tgQoN4e3YMC/Uegx5GQGiTZ3dDA=="/>
+        </item>
+        <item>
             <title>0.1.4</title>
             <pubDate>Fri, 13 Nov 2026 13:23:51 -0300</pubDate>
             <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
