@@ -3,6 +3,20 @@
     <channel>
         <title>PingWatch</title>
         <item>
+            <title>0.1.3</title>
+            <pubDate>Fri, 13 Nov 2026 11:40:23 -0300</pubDate>
+            <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
+            <sparkle:version>202611131438</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- New hosts ping every 3 seconds by default. Hosts you already have keep their interval.
+- The packet loss threshold can now be set in steps of 0.1% below 1%, and Settings shows how much one lost ping counts for at each host's interval.
+- A failed speed test now says why: the HTTP status, which step failed, the Cloudflare location and any wait Cloudflare asked for. Open History to see and copy it.
+- When Cloudflare refuses speed tests, scheduled tests wait longer before trying again, up to a day, until one succeeds. Test now always runs.
+]]></description>
+            <enclosure url="https://github.com/mathiasgrimm/pingwatch-releases/releases/download/v0.1.3/PingWatch-0.1.3.zip" length="4553634" type="application/octet-stream" sparkle:edSignature="B5S27zmqm1XlplvMiR6B9azFbLlFWamJtwX11Xh2zSg1BvNVoVkfSnDGsPVRcLxn8FGMHzny3m3+ZvKiV3WxAQ=="/>
+        </item>
+        <item>
             <title>0.1.2</title>
             <pubDate>Thu, 12 Nov 2026 20:35:48 -0300</pubDate>
             <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
