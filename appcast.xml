@@ -3,6 +3,21 @@
     <channel>
         <title>PingWatch</title>
         <item>
+            <title>0.1.4</title>
+            <pubDate>Fri, 13 Nov 2026 13:23:51 -0300</pubDate>
+            <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
+            <sparkle:version>202611131621</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Speed tests now use Apple's own network quality test, built into macOS, and show the speed live while they run: download first, then upload.
+- Speed tests run only when you click Test now, so they never interrupt a call or a stream. Scheduled tests are gone, including for existing installs.
+- A test takes up to 30 seconds and fills your connection while it runs. On a fast line it can use a few GB.
+- History adds a Busy latency column (your latency while the line was full) and shows the full error of a failed test.
+- Provider (ISP) names are no longer shown. Earlier test results stay in History.
+]]></description>
+            <enclosure url="https://github.com/mathiasgrimm/pingwatch-releases/releases/download/v0.1.4/PingWatch-0.1.4.zip" length="4480093" type="application/octet-stream" sparkle:edSignature="oviCD887hiFRAgoxhsgmfBCrdZ5D0ozrn+jfr9DehSO98ZfQOhuAV+nEBqtDjKpMUduStpuM+rUNeYCVyexWCg=="/>
+        </item>
+        <item>
             <title>0.1.3</title>
             <pubDate>Fri, 13 Nov 2026 11:40:23 -0300</pubDate>
             <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
