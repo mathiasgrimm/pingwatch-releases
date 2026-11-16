@@ -3,6 +3,18 @@
     <channel>
         <title>PingWatch</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Mon, 16 Nov 2026 08:35:07 -0300</pubDate>
+            <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
+            <sparkle:version>202611161132</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Desktop widget: add PingWatch from Edit Widgets on your desktop. The small widget shows the overall status and the worst host; the medium one shows up to four hosts with their latency, loss and the last few minutes. Click it to open History. macOS decides when widgets redraw, so it can lag the menu bar by a few minutes, and it says so when no update has arrived for 20 minutes or PingWatch is not running.
+- History has a new "By hour" view for one host over 7 days, 30 days or a custom range of up to 31 days: a row per day and a column per hour, coloured by packet loss or by latency compared with that host's typical hour, so recurring trouble such as busy evenings stands out.
+]]></description>
+            <enclosure url="https://github.com/mathiasgrimm/pingwatch-releases/releases/download/v0.2.0/PingWatch-0.2.0.zip" length="4693812" type="application/octet-stream" sparkle:edSignature="BbNttkFOto9jT6g8t2bP59Aj2EZp2Rpl4U6pgW3ZQdEnhw7MxcWNrWidJNsOOoOlik18Az55PkO0NXPzS/JUAw=="/>
+        </item>
+        <item>
             <title>0.1.5</title>
             <pubDate>Fri, 13 Nov 2026 16:13:52 -0300</pubDate>
             <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
