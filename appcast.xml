@@ -3,6 +3,21 @@
     <channel>
         <title>PingWatch</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Tue, 17 Nov 2026 10:03:28 -0300</pubDate>
+            <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
+            <sparkle:version>202611171300</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Works away from home: the Router and DNS server hosts can now follow whichever network your Mac is on, instead of pinging your home addresses and failing everywhere else. New installs start this way. If you already use PingWatch, the menu offers once to make your Router and DNS server hosts follow the network; their history so far is kept. Any host can be switched in Settings > Hosts.
+- PingWatch recognises the networks you use by their router and restarts its measurements when you switch, so a change of network no longer shows up as packet loss and the menu's health reflects the network you are on now.
+- A host with nothing to ping on the current network (no router, or a DNS server that is the router or one of your other hosts) shows greyed with the reason and does not count towards the overall status.
+- Settings > Networks lists the networks PingWatch has seen and lets you name them, such as Home or Office. A host can be limited to one network, for devices that only exist there; the menu shows which network you are on.
+- History can show one network at a time: statistics, charts and the "By hour" view each have a network picker.
+]]></description>
+            <enclosure url="https://github.com/mathiasgrimm/pingwatch-releases/releases/download/v0.3.0/PingWatch-0.3.0.zip" length="4823512" type="application/octet-stream" sparkle:edSignature="XsNXGARtZuTbxYu6etG5sSE8NtQrIgGwBiwvHLxdLXU4MZQjwjD6fXfDWLqut+BZPkMrCNKwEOpa+/K6r7j5Cw=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Mon, 16 Nov 2026 08:35:07 -0300</pubDate>
             <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
