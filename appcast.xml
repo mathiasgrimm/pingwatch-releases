@@ -3,6 +3,17 @@
     <channel>
         <title>PingWatch</title>
         <item>
+            <title>0.4.1</title>
+            <pubDate>Tue, 17 Nov 2026 11:00:30 -0300</pubDate>
+            <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
+            <sparkle:version>202611171357</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Hosts limited to one network no longer appear in the menu while you are elsewhere; they come back when your Mac is on their network, and Settings > Hosts still lists them.
+]]></description>
+            <enclosure url="https://github.com/mathiasgrimm/pingwatch-releases/releases/download/v0.4.1/PingWatch-0.4.1.zip" length="4879450" type="application/octet-stream" sparkle:edSignature="A+1RQJxOEWDxKyOV+Jarx6au9pIQAaqRSF2rjWug6+hJAB7WV7HjGbf+duCEibwYSnm/eU8R1Y66WLOgtfIrDw=="/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Tue, 17 Nov 2026 10:46:07 -0300</pubDate>
             <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
