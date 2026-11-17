@@ -13,7 +13,8 @@ provider, and since when.
 - A green, amber or red dot in the menu bar, with the router's latency next
   to it.
 - History for any range: charts, averages, exact percentiles, and a "By hour"
-  view that shows which hours of the day are bad.
+  view that shows which hours of the day are bad (pick one host and 7 or 30
+  days).
 - Works away from home. Router and DNS server follow whatever network you're
   on, and a host can be limited to one network (say, the mesh nodes at home).
 - Speed test using Apple's networkQuality.
