@@ -3,6 +3,19 @@
     <channel>
         <title>PingWatch</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Tue, 17 Nov 2026 10:46:07 -0300</pubDate>
+            <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
+            <sparkle:version>202611171343</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Add a network before you get there: Settings > Networks > Add Network takes a name and the router's address (and its MAC address, if you know it), so hosts that only exist at that place can be limited to it while you are away. The first time your Mac joins a network with that router, PingWatch asks whether it is the one, since addresses like 192.168.0.1 are shared by many places; with the MAC address it recognises the network without asking.
+- A network added by hand can also be linked from Settings > Networks while you are on it, or removed while no host uses it.
+- The host editor no longer cuts off its title and labels.
+]]></description>
+            <enclosure url="https://github.com/mathiasgrimm/pingwatch-releases/releases/download/v0.4.0/PingWatch-0.4.0.zip" length="4878132" type="application/octet-stream" sparkle:edSignature="v6IJoTLpoHd1Rt4MhDYyuG+P2k7flOhISW1uyGLv3XP7/CRTk4XMB8/d2cI6SizdbRt3zEIGzM/r6+DjCihgCA=="/>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Tue, 17 Nov 2026 10:03:28 -0300</pubDate>
             <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
