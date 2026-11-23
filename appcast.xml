@@ -3,6 +3,17 @@
     <channel>
         <title>PingWatch</title>
         <item>
+            <title>0.4.3</title>
+            <pubDate>Mon, 23 Nov 2026 11:15:20 -0300</pubDate>
+            <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
+            <sparkle:version>202611231412</sparkle:version>
+            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- The menu has a solid background instead of a see-through one, so hosts and figures stay easy to read over any wallpaper.
+]]></description>
+            <enclosure url="https://github.com/mathiasgrimm/pingwatch-releases/releases/download/v0.4.3/PingWatch-0.4.3.zip" length="4883297" type="application/octet-stream" sparkle:edSignature="jJNJVRF4W3cG+U7jGxpSbh+87+U31AQH0xkIjtdv7qAMSe1cEonzd+y0kUvuEE9E9mgnS1CxcA7Re7x3yViFAQ=="/>
+        </item>
+        <item>
             <title>0.4.2</title>
             <pubDate>Mon, 23 Nov 2026 08:47:27 -0300</pubDate>
             <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
