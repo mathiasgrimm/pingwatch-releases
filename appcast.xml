@@ -3,6 +3,17 @@
     <channel>
         <title>PingWatch</title>
         <item>
+            <title>0.4.2</title>
+            <pubDate>Mon, 23 Nov 2026 08:47:27 -0300</pubDate>
+            <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
+            <sparkle:version>202611231144</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- The menu bar item keeps the same width as the latency changes, so it no longer pushes the icons next to it left and right.
+]]></description>
+            <enclosure url="https://github.com/mathiasgrimm/pingwatch-releases/releases/download/v0.4.2/PingWatch-0.4.2.zip" length="4882649" type="application/octet-stream" sparkle:edSignature="WlJUP2CPDBQaq1Fq7Dw42TLTvFJY5zErSVMm8O5M4X3agxpuX797BubZcrN8s2V/hFLD5X3bOEKhUlCoe3kcBA=="/>
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Tue, 17 Nov 2026 11:00:30 -0300</pubDate>
             <link>https://github.com/mathiasgrimm/pingwatch-releases/releases</link>
